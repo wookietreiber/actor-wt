@@ -9,12 +9,13 @@ the idea seems worth the effort an implementation, based on the specification,
 using [Scala][scala] and [Akka][akka] will follow.
 
 If you'd like to contribute to the specification, please clone and edit the
-[Wiki][wiki].
+[Wiki][wiki-edit].
 
 
 [actor-model]: http://en.wikipedia.org/wiki/Actor_model
 [widget-toolkit]: http://en.wikipedia.org/wiki/Widget_toolkit
-[wiki]: 
+[wiki]: https://github.com/wookietreiber/actor-wt/wiki
+[wiki-edit]: https://github.com/wookietreiber/actor-wt/wiki/_access
 [scala]: http://www.scala-lang.org/
 [akka]: http://akka.io/
 
